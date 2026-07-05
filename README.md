@@ -104,7 +104,14 @@ Essa estrutura faz sentido para o seu fluxo de planejamento logístico ou você 
 ```
 ___________________________________________________________________________________________________
 
-# Resumo
+## Resumo
 
-[Clique aqui para acessar o resumo] (Guia Abrangente sobre Modelos e Aplicações de Análise Preditiva)
+A análise preditiva consolidou-se como uma ferramenta estratégica indispensável para empresas que buscam transitar de uma postura reativa para uma proativa. Ao utilizar dados históricos e algoritmos estatísticos, as organizações podem prever tendências, identificar riscos precoces e otimizar a tomada de decisão em áreas que variam desde a detecção de fraudes até o planejamento da cadeia de suprimentos.Este documento sintetiza os cinco modelos fundamentais de análise preditiva — classificação, regressão, agrupamento, séries temporais e detecção de anomalias — e esclarece a distinção crítica entre análise preditiva (como área de aplicação focada em resultados) e  machine learning  (como o conjunto de ferramentas e metodologias que viabiliza essas previsões). A implementação bem-sucedida exige dados de alta qualidade, engenharia de atributos e uma compreensão clara de quando utilizar modelos estatísticos simples ou sistemas complexos de aprendizado automatizado.
 
+## Glosário
+
+| Nome | Descrição |
+|------|------|
+| LLM | Large Model Languagem é um módelo de linguágem abrangente |
+| Análise Preditiva | Análise realizada com o objetico de realizar previsçoes com base em dados históricos |
+| Machine Learning | Conceito no qual a maquina aprende sobre um tema, com o objetivo de automatizar processos e análises|

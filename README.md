@@ -106,4 +106,5 @@ ________________________________________________________________________________
 
 # Resumo
 
+[Clique aqui para acessar o resumo](Guia Abrangente sobre Modelos e Aplicações de Análise Preditiva)
 
